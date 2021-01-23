@@ -2,25 +2,22 @@
 A program used to draw various shapes using the C ++ language by Win32
 
 
-**
+
 
 ## 2D Project-[Phase-1]
 
-**
+
 
 ## **_Requirements:_**
 
-**
+
 
 ## 1.Implement 2D package which contains:**
 
-**
-
-**
 
  - Drop down list for the following Requirements:
 
-**
+
 
  1. Change the background of window to be white
  2. Try to change the shape of your window mouse
